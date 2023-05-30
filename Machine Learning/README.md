@@ -11,7 +11,8 @@ In the first week, the Machine Learning Team made preparations and searched for 
 
 
 # Week 2 
-...
+In the second week, the Machine Learning Team conducted training and tested machine learning models, namely recommendation systems. Where, the goal is to display the name of the closest shelter based on the user's address.
+
 
 # Week 3
 ...
