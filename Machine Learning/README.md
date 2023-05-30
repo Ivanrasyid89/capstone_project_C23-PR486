@@ -4,6 +4,8 @@ The Machine Learning team is tasked with finding datasets, namely shelter data a
 
 # Week 1
 In the first week, the Machine Learning Team made preparations and searched for various datasets that would be used to train and test the model.
+
+
 <img width="904" alt="image" src="https://github.com/Ivanrasyid89/capstone_project_C23-PR486/assets/98071016/bec7cd7b-4f6c-455f-8516-35ed68fd6e92">
 <img width="920" alt="image" src="https://github.com/Ivanrasyid89/capstone_project_C23-PR486/assets/98071016/9342d7cd-dd76-442f-809f-d680f496aa40">
 
