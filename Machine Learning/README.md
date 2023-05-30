@@ -14,6 +14,9 @@ In the first week, the Machine Learning Team made preparations and searched for 
 In the second week, the Machine Learning Team conducted training and tested machine learning models, namely recommendation systems. Where, the goal is to display the name of the closest shelter based on the user's address.
 
 
+![image](https://github.com/Ivanrasyid89/capstone_project_C23-PR486/assets/98071016/bae97790-876b-4d61-9cb9-5deb3c5d7cf8)
+
+
 # Week 3
 ...
 
