@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "668214141067",
+    "project_id": "capstone-project-c23-pr468",
+    "storage_bucket": "capstone-project-c23-pr468.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:668214141067:android:845e33aa272013e9d0f48e",
+        "android_client_info": {
+          "package_name": "com.example.capstoneshelters"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAInfW8EBttDpE1KQOxwK4fdabczNZQ6k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
