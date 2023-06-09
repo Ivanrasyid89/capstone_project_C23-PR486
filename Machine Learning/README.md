@@ -1,6 +1,6 @@
 # Machine Learning
 
-The Machine Learning team is tasked with finding datasets, namely shelter data, user data, and types of animals. In addition, he is in charge of modeling recommendation systems and detecting animal species. There are 257 shelter data and 34902 user data. There are 20583 dog species data and 5625 cat species data.
+The Machine Learning team is tasked with finding datasets, namely shelter data, user data, and types of animals. In addition, he is in charge of modeling recommendation systems and detecting animal species. There are 257 shelter data and 34902 user data. There are 20583 dog species data and 5625 cat species data. 
 
 # Week 1
 In the first week, the Machine Learning Team made preparations and searched for various datasets that would be used to train and test the model.
@@ -14,4 +14,5 @@ In the third week, the Machine Learning Team developed a model using CNN with th
 # Week 4
 ...
 
-Paper as references:
+# References:
+
