@@ -15,4 +15,4 @@ In the third week, the Machine Learning Team developed a model using CNN with th
 ...
 
 # References:
-'[Klasifikasi Ras pada Kucing menggunakan Algoritma Convolutional Neural  Network(CNN)](https://openlibrarypublications.telkomuniversity.ac.id/index.php/engineering/article/download/14320/14104)'
+[Klasifikasi Ras pada Kucing menggunakan Algoritma Convolutional Neural  Network(CNN)](https://openlibrarypublications.telkomuniversity.ac.id/index.php/engineering/article/download/14320/14104)
