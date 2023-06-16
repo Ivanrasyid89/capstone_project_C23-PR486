@@ -6,7 +6,7 @@ The Machine Learning team is tasked with finding datasets, namely shelter data, 
 In the first week, the Machine Learning Team made preparations and searched for various datasets that would be used to train and test the model.
 
 # Week 2 
-In the second week, the Machine Learning Team conducted training and trials of a machine learning model, namely a recommendation system using content based filtering. Where, the goal is to display the name of the closest shelter based on the user's address.
+In the second week, the Machine Learning Team conducted training and trials of a machine learning model, namely a recommendation system using neural network classification algorithm. Where, the goal is to display the name of the closest shelter based on the user's address.
 
 # Week 3
 In the third week, the Machine Learning Team developed a model using CNN with the Inception V3 architecture. The developed model is capable of detecting cat and dog species.
