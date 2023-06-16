@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".MainActivity">
+    tools:context=".ui.MainActivity">
     <ImageView
         android:layout_width="match_parent"
         android:layout_height="195dp"
@@ -15,15 +15,6 @@
         android:layout_height="wrap_content"
         android:orientation="vertical"
         android:layout_gravity="center_horizontal">
-        <TextView
-            android:id="@+id/tVUsername"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="UserInfo"
-            android:layout_marginTop="18dp"
-            android:textSize="20sp"
-            android:textColor="@color/white">
-        </TextView>
 
         <androidx.appcompat.widget.SearchView
             android:layout_width="296dp"
@@ -55,6 +46,7 @@
                         android:layout_marginEnd="23dp"
                         android:orientation="vertical">
                         <androidx.cardview.widget.CardView
+                            android:id="@+id/pet_shelter"
                             android:layout_width="50dp"
                             android:layout_height="50dp"
                             android:elevation="40dp">
@@ -79,10 +71,22 @@
                         android:orientation="vertical"
                         android:layout_marginEnd="23dp">
                         <androidx.cardview.widget.CardView
+                            android:id="@+id/predict_pet"
                             android:layout_width="50dp"
                             android:layout_height="50dp"
-                            android:elevation="10dp"
-                            app:cardBackgroundColor="#D9D9D9"/>
+                            android:elevation="40dp">
+                            <ImageView
+                                android:layout_width="27.5dp"
+                                android:layout_height="27.5dp"
+                                android:src="@drawable/baseline_local_see_24"
+                                android:layout_gravity="center"/>
+                        </androidx.cardview.widget.CardView>
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="species"
+                            android:textSize="10sp"
+                            android:layout_gravity="center"/>
                     </LinearLayout>
 
                     <LinearLayout
@@ -153,10 +157,22 @@
                         android:layout_height="wrap_content"
                         android:orientation="vertical">
                         <androidx.cardview.widget.CardView
+                            android:id="@+id/log_out"
                             android:layout_width="50dp"
                             android:layout_height="50dp"
-                            android:elevation="10dp"
-                            app:cardBackgroundColor="#D9D9D9"/>
+                            android:elevation="40dp">
+                            <ImageView
+                                android:layout_width="27.5dp"
+                                android:layout_height="27.5dp"
+                                android:src="@drawable/baseline_login_24"
+                                android:layout_gravity="center"/>
+                        </androidx.cardview.widget.CardView>
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="Logout"
+                            android:textSize="10sp"
+                            android:layout_gravity="center"/>
                     </LinearLayout>
             </LinearLayout>
             </LinearLayout>
