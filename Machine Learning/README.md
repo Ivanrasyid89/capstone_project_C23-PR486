@@ -6,10 +6,10 @@ The Machine Learning team is tasked with finding datasets, namely shelter data, 
 In the first week, the Machine Learning Team made preparations and searched for various datasets that would be used to train and test the model.
 
 # Week 2 
-In the second week, the Machine Learning Team conducted training and trials of a machine learning model, namely a recommendation system using neural network classification algorithm. Where, the goal is to display the name of the closest shelter based on the user's address.
+In the second week, the Machine Learning Team conducted training and trials of a machine learning model, namely a recommendation system using a neural network classification algorithm. Where the goal is to display the name of the closest shelter based on the user's address.
 
 # Week 3
-In the third week, the Machine Learning Team developed a model using CNN with the Inception V3 architecture. The developed model is capable of detecting cat and dog species.
+In the third week, the Machine Learning Team developed a model using the Inception V3 architecture. The developed model is capable of detecting cat and dog species.
 
 # Week 4
 Prepare developed models into file formats (H5, TFLite, and JSON). In the process of developing a machine learning model, the H5 format is used to save the model while it is in the training stage. Once the model is trained and ready to go, the TFlite and JSON formats are used for deployment purposes and model use on multiple platforms.
